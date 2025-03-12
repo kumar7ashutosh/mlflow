@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kumar/OneDrive/Desktop/MLFLOW/mlruns/0/92d1790114f74fbc97f03de47c8ad3fc/artifacts
+end_time: 1741782010674
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92d1790114f74fbc97f03de47c8ad3fc
+run_name: capricious-crow-355
+run_uuid: 92d1790114f74fbc97f03de47c8ad3fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741782006236
+status: 3
+tags: []
+user_id: kumar

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kumar/OneDrive/Desktop/MLFLOW/mlruns/0/59f3330f6a234e12a57cafae54522cdd/artifacts
+end_time: 1741771183421
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 59f3330f6a234e12a57cafae54522cdd
+run_name: likeable-pug-595
+run_uuid: 59f3330f6a234e12a57cafae54522cdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741771178154
+status: 3
+tags: []
+user_id: kumar
